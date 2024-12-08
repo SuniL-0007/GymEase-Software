@@ -1,2 +1,2 @@
-# Gym-Management-System
+# GymEase Software
 RDBMS Project
